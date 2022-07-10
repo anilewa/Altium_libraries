@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-16052011-064099";"";
+"REFERENCE";"G6K-2F-RF 3DC";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"High Frequency Relay (1A) – G6K-RF";"";
+"TraceParts.InstanceId";"10-16052011-064099DGMOB4513NAC84YF62ZK21C26";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"OMRON:/F_OMRON/OMRON.030/OMRON.030.020/OMRON.030.020.020/10-16052011-064099";"";
+"SUPPLIER";"OMRON";"";
+"DESIGN";"Surface Mounting Relay, Single-side stable, 1A, 3 DC";"";
+"TraceParts.PartVersion";"1.2.2";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";

@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-22092010-080520";"";
+"REFERENCE";"A-SIM-08-05-C-003";"";
+"TraceParts.PartTitle";"SIM-card-socket, type 5";"";
+"TraceParts.InstanceId";"10-22092010-0805202QO2FGPVFVH7VHSZHTZKY9MYB";"";
+"DESIGN";"SIM-card-socket, type 5, plating: Gold 15μ'' (selective)";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"TraceParts.PartVersion";"1.0.9";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ASSMANN:/F_ASSMANN/ASSMANN.010/ASSMANN.010.230/10-22092010-080520";"";

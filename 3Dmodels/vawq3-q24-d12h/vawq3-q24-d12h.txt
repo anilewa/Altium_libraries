@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"60-13102015-110080";"";
+"REFERENCE";"VAWQ3-Q24-D12H";"";
+"TraceParts.PartTitle";"VAWQ3 Series - 3 W, 4:1 Input Range, Single/Dual Regulated Output, 24 Pin DIP, 500/1500/3000 Vdc Isolation, Dc-Dc Converter";"";
+"TraceParts.InstanceId";"60-13102015-110080EPE0X0DD87301N9N5M6JMD6KZ";"";
+"DESIGN";"12/-12 Vdc, 0.125 A, 3 W, 9~36 Vdc Input Range";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.4";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:/F_CUI/CUI_A.010/CUI_A.010.020/CUI_A.010.020.030/CUI_A.010.020.030.010/CUI_A.010.020.030.010.050/60-13102015-110080";"";

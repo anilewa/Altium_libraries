@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-16052011-063938";"";
+"REFERENCE";"B3F-4000";"";
+"TraceParts.PartTitle";"Tactile Switch (12mm x 12mm) – B3F";"";
+"TraceParts.InstanceId";"10-16052011-0639386RI53UP72AP42BMV08CI56XLS";"";
+"TraceParts.PartStatus";"Published";"";
+"SUPPLIER";"OMRON";"";
+"TraceParts.PartVersion";"1.0.9";"";
+"DESIGN";"Tactile Switch With ground terminal, Height 4.3 mm, Operating Force 1.27N";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"OMRON:/ROOT/C31/C31.T01/C31.T01.T14/10-16052011-063938";"";

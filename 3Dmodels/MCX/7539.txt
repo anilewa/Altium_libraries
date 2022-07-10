@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-26092012-094582";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/ROOT/10-26092012-094582";"";
+"TIMESTAMP";"18/9/2012 16:16:23";"";
+"TraceParts.InstanceId";"10-26092012-0945823WKG75UI26PX9Z529U4MP32J3";"";
+"REFERENCE";"R113426000";"";
+"DESIGN";"MCX SOCKET";"";
+"SUPPLIER";"Radiall";"";
+"RS_STOCK_NUMBER";"3071083";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatus";"Published";"";
+"REVISION";"A";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"MCX SOCKET";"";
+"TraceParts.PartVersion";"1.0.5";"";

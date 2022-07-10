@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-21112012-108392";"";
+"REFERENCE";"10067847011RLF";"";
+"TraceParts.PartTitle";"SD SD card reader Push - Push Type";"";
+"TraceParts.InstanceId";"10-21112012-1083926CL85VAXPHP6YME1KDKDXHGYJ";"";
+"TraceParts.PartStatus";"Published";"";
+"SUPPLIER";"FCI";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"DESIGN";"SD SD card reader Push - Push Type";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"FCI:/ROOT/C31/C31.T01/C31.T01.T02/10-21112012-108392";"";

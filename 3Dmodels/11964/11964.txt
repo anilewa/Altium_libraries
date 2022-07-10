@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"5227677-1";"";
+"TraceParts.PartVersion";"1.1.7";"";
+"SUPPLIER";"TE Connectivity";"";
+"TraceParts.PartStatus";"Published";"";
+"ALLIED_STOCK_NUMBER";"70042571";"";
+"RS_STOCK_NUMBER";"6807065P";"";
+"REVISION";"A";"";
+"DESIGN";"BNC,90¦,jack,solder,PCB mount,Au,50ohm";"";
+"TraceParts.InstanceId";"10-15062010-1653146UID2B011M6LPYZRPYRNEZ5CZ";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"BNC,90¦,jack,solder,PCB mount,Au,50ohm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TIMESTAMP";"24/6/2010 11:40:47";"";
+"TraceParts.PartNumber";"10-15062010-165314";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/F_RS_COMPONENTS/PSSS_435563/PSS_435738/PSF_435745/10-15062010-165314";"";

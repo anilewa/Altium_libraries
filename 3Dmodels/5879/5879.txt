@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-05032010-134348";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/ROOT/C31/C31.T01/C31.T01.T02/10-05032010-134348";"";
+"TIMESTAMP";"3/3/2010 16:09:05";"";
+"TraceParts.InstanceId";"10-05032010-1343484Y2AKL4BYKFX7NYR3C0GH19AW";"";
+"REFERENCE";"67068-7041";"";
+"DESIGN";"USB B CONNECTOR, KINKED";"";
+"SUPPLIER";"Molex";"";
+"RS_STOCK_NUMBER";"5151989P";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatus";"Published";"";
+"REVISION";"N";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"USB B CONNECTOR, KINKED";"";
+"TraceParts.PartVersion";"1.1.3";"";

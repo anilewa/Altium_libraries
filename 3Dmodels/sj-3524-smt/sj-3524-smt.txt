@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"60-13102015-106397";"";
+"REFERENCE";"SJ-3524-SMT";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"SJ-352X-SMT Series - 3.5 mm, Stereo, Right Angle, Surface Mount (SMT), Audio Jack Connector";"";
+"TraceParts.InstanceId";"60-13102015-1063972H0N67KZQ02M1DC893TA2Q86V";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:/F_CUI/CUI_A.020/CUI_A.020.020/CUI_A.020.020.010/CUI_A.020.020.010.040/60-13102015-106397";"";
+"SUPPLIER";"CUI";"";
+"DESIGN";"3.5 mm Low Profile Surface Mount Stereo Jack, 4 Pin Right-Angle";"";
+"TraceParts.PartVersion";"1.0.3";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";

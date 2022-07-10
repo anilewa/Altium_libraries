@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"A-USB B/SMT";"";
+"TraceParts.PartVersion";"1.0.9";"";
+"SUPPLIER";"Assmann";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"6741331P";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"USB B type smt";"";
+"TraceParts.InstanceId";"10-14122010-1158348YF3SDIHOYF6VRE0G74ITB0VP";"";
+"TraceParts.PartTitle";"USB B type smt";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TIMESTAMP";"21/12/2010 08:28:39";"";
+"REVISION";"A";"";
+"TraceParts.PartNumber";"10-14122010-115834";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/ROOT/C31/C31.T01.T02/10-14122010-115834";"";

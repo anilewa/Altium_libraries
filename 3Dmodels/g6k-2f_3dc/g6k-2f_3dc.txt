@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-16052011-064097";"";
+"TraceParts.ClassPath";"OMRON:/ROOT/C31/C31.020/C31.020.T03/10-16052011-064097";"";
+"TraceParts.InstanceId";"10-16052011-0640972GRQSDM2CCRA3X6S53CKM4OPO";"";
+"REFERENCE";"G6K-2F 3DC";"";
+"DESIGN";"Single-side stable relay, Outside-L surface mounting terminal, 3DC";"";
+"SUPPLIER";"OMRON";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"Surface Mounting Relay (1A) – G6K";"";
+"TraceParts.PartVersion";"1.2.0";"";

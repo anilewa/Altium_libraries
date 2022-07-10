@@ -1,0 +1,17 @@
+ISO-10303-21;
+HEADER;
+FILE_DESCRIPTION (( 'STEP AP203' ),
+    '1' );
+FILE_NAME ('User Library-G6K-2F-Y.STEP',
+    '2016-04-25T11:49:21',
+    ( 'Windows User' ),
+    ( '' ),
+    'SwSTEP 2.0',
+    'SolidWorks 2016',
+    '' );
+FILE_SCHEMA (( 'CONFIG_CONTROL_DESIGN' ));
+ENDSEC;
+
+DATA;
+ENDSEC;
+END-ISO-10303-21;

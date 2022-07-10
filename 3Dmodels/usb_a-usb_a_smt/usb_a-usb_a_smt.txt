@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-01092010-069026";"";
+"REFERENCE";"A-USB A/SMT";"";
+"TraceParts.PartTitle";"USB, style A, SMD";"";
+"TraceParts.InstanceId";"10-01092010-0690266GXP3CT526E0SIFVM5RDLL85V";"";
+"TraceParts.PartLanguage";"en";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"TraceParts.PartVersion";"1.1.3";"";
+"DESIGN";"USB, style A, SMD";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.ClassPath";"ASSMANN:/ROOT/C31/C31.T01/C31.T01.T02/10-01092010-069026";"";

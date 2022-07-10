@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"G3VM-21LR10";"";
+"TraceParts.PartVersion";"1.0.7";"";
+"SUPPLIER";"Omron";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"6838927P";"";
+"REVISION";"A";"";
+"DESIGN";"SSR 4pin SSOP MOSFET,20V 0.2A";"";
+"TraceParts.InstanceId";"10-15082011-09178812UUH00YN5D3W6RFRJJDG9FSF";"";
+"TraceParts.PartTitle";"SSR 4pin SSOP MOSFET,20V 0.2A";"";
+"TraceParts.PartLanguage";"en";"";
+"TIMESTAMP";"11/11/2013 12:03";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartNumber";"10-15082011-091788";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/ROOT/10-15082011-091788";"";
